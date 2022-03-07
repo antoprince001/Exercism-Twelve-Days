@@ -32,32 +32,3 @@ On the eleventh day of Christmas my true love gave to me: eleven Pipers Piping, 
 
 On the twelfth day of Christmas my true love gave to me: twelve Drummers Drumming, eleven Pipers Piping, ten Lords-a-Leaping, nine Ladies Dancing, eight Maids-a-Milking, seven Swans-a-Swimming, six Geese-a-Laying, five Gold Rings, four Calling Birds, three French Hens, two Turtle Doves, and a Partridge in a Pear Tree.
 ```
-
-## Source
-
-### Created by
-
-- @FridaTveit
-
-### Contributed to by
-
-- @c-thornton
-- @jmrunkle
-- @Kyle-Pu
-- @kytrinyx
-- @lemoncurry
-- @mirkoperillo
-- @morrme
-- @msomji
-- @muzimuzhi
-- @PatrickMcSweeny
-- @rootulp
-- @SleeplessByte
-- @Smarticles101
-- @sshine
-- @stkent
-- @Zaldrick
-
-### Based on
-
-Wikipedia - http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)
